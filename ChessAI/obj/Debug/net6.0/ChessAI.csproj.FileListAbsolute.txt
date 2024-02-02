@@ -1,0 +1,15 @@
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\bin\Debug\net6.0\ChessAI.deps.json
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\bin\Debug\net6.0\ChessAI.dll
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\bin\Debug\net6.0\ChessAI.pdb
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.AssemblyInfoInputs.cache
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.AssemblyInfo.cs
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.csproj.CoreCompileInputs.cache
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.dll
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\refint\ChessAI.dll
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.pdb
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ref\ChessAI.dll
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\bin\Debug\net6.0\ChessLogic.dll
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\bin\Debug\net6.0\ChessLogic.pdb
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.csproj.AssemblyReference.cache
+C:\Users\ecpto\Documents\C#\Chess\ChessAI\obj\Debug\net6.0\ChessAI.csproj.CopyComplete

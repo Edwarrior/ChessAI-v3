@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessLogic", "ChessLogic\ChessLogic.csproj", "{203E2C7E-9BA8-4721-B7FC-EAB632CF712A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessUI", "ChessUI\ChessUI.csproj", "{DAB840B7-587C-46AD-9C03-81CB4EE05ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessAI", "ChessAI\ChessAI.csproj", "{C7389D95-A423-4600-AE2F-4F383AD61E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203E2C7E-9BA8-4721-B7FC-EAB632CF712A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203E2C7E-9BA8-4721-B7FC-EAB632CF712A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203E2C7E-9BA8-4721-B7FC-EAB632CF712A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203E2C7E-9BA8-4721-B7FC-EAB632CF712A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB840B7-587C-46AD-9C03-81CB4EE05ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB840B7-587C-46AD-9C03-81CB4EE05ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB840B7-587C-46AD-9C03-81CB4EE05ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB840B7-587C-46AD-9C03-81CB4EE05ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7389D95-A423-4600-AE2F-4F383AD61E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7389D95-A423-4600-AE2F-4F383AD61E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7389D95-A423-4600-AE2F-4F383AD61E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7389D95-A423-4600-AE2F-4F383AD61E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9222C9DE-C8E1-4818-AEF4-585F48275B3C}
+	EndGlobalSection
+EndGlobal

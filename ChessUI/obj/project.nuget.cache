@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TyvfpdHfzEKhDLuDXKH7RByZS+QQ929R5k5ZQGyCDqXQfgOgSDXB9IH7cldiXwkGCRQhwzdQgPHKW49nMZBVTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ecpto\\Documents\\C#\\Chess\\ChessUI\\ChessUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecpto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ecpto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ecpto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ecpto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
